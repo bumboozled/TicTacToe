@@ -1,5 +1,5 @@
 # TicTacToe
-Project for AP CS A.
+Project for AP CS A. /n
 A fun game of TicTacToe against an AI. Can you defeat the AI?
 
 <img src = "TicTacToe.png" width ="200">
