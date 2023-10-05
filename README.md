@@ -1,4 +1,4 @@
-# TicTacToe
-Project for AP CS A. <br>A fun game of TicTacToe against an AI. Can you defeat the AI?
+# MiniMax TicTacToe 
+Project for AP CS A. <br>"Unbeatable" TicTactoe AI using MiniMax algorithm
 
 <img src = "TicTacToe.png" width ="200">
